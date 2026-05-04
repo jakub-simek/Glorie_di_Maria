@@ -1,0 +1,239 @@
+{
+  "work": {
+    "title": "Le Glorie di Maria",
+    "author": "S. Alfonso Maria de Liguori",
+    "intratext_id": "ITASA0013",
+    "index_url": "https://www.intratext.com/ixt/ITASA0013/_index.htm",
+    "downloaded_at": "2026-05-04T12:23:52.063105+00:00",
+    "source_note": "Text pages use IntraText's hidden-concordance-link variant (__P*.HTM).",
+    "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported, unless otherwise noted",
+    "license_url": "https://www.intratext.com/info/copyENG.htm"
+  },
+  "index": {
+    "order": 0,
+    "kind": "index",
+    "title": "Indice generale",
+    "source_url": "https://www.intratext.com/ixt/ITASA0013/_index.htm",
+    "local_path": "sources/intratext/raw_html/_index.htm",
+    "bytes": 6395,
+    "sha256": "3140ded4156f13d9c53a01018b062ac946e1f13f19e429bc9270ca6fda8cb9b9"
+  },
+  "pages": [
+    {
+      "order": 1,
+      "kind": "text",
+      "title": "Scheda",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P1.HTM",
+      "local_path": "sources/intratext/raw_html/__p1.htm",
+      "bytes": 10521,
+      "sha256": "6fb68f74a3d696281ab146a8e15dd39e9906d02a23ddc1c15d876f6945dff306"
+    },
+    {
+      "order": 2,
+      "kind": "text",
+      "title": "Introduzione di O. Gregorio C.Ss.R.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P2.HTM",
+      "local_path": "sources/intratext/raw_html/__p2.htm",
+      "bytes": 51785,
+      "sha256": "9c8fc42c760307afc5a3ba0db88d7cb3ce1095b4f10ca1e9095a81b3984071b0"
+    },
+    {
+      "order": 3,
+      "kind": "text",
+      "title": "SUPPLICA DELL'AUTORE A GESÙ ED A MARIA",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P3.HTM",
+      "local_path": "sources/intratext/raw_html/__p3.htm",
+      "bytes": 7875,
+      "sha256": "feec45b2e190d8a761fe6ce41e9e0846cc746ab5b3ea4be7bc0577f20bb99587"
+    },
+    {
+      "order": 4,
+      "kind": "text",
+      "title": "PROTESTA DELL'AUTORE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P4.HTM",
+      "local_path": "sources/intratext/raw_html/__p4.htm",
+      "bytes": 4303,
+      "sha256": "d0360afa7a5c64e22059c1de382f184f1c789575c738a3f4ee2c9085f60eff11"
+    },
+    {
+      "order": 5,
+      "kind": "text",
+      "title": "AVVERTIMENTO AL LETTORE.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P5.HTM",
+      "local_path": "sources/intratext/raw_html/__p5.htm",
+      "bytes": 11147,
+      "sha256": "ede0dfd898a21c0e283b307ad778e3bf8073f6c47a83a2961aa9a98a5ae08165"
+    },
+    {
+      "order": 6,
+      "kind": "text",
+      "title": "INTRODUZIONE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P6.HTM",
+      "local_path": "sources/intratext/raw_html/__p6.htm",
+      "bytes": 27776,
+      "sha256": "8bd924fdf55fff25e51cded670ee8a1c1dbe57de20adba9d7d62f461324b2035"
+    },
+    {
+      "order": 7,
+      "kind": "text",
+      "title": "CAPITOLO I.- Salve, Regina, Mater misericordiae.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P7.HTM",
+      "local_path": "sources/intratext/raw_html/__p7.htm",
+      "bytes": 228326,
+      "sha256": "4d69af15762ea5e4b9d4acb3edea47ce7ed94b853531f930cda0782231a34fbc"
+    },
+    {
+      "order": 8,
+      "kind": "text",
+      "title": "CAPITOLO II. - Vita, dulcedo.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P8.HTM",
+      "local_path": "sources/intratext/raw_html/__p8.htm",
+      "bytes": 137558,
+      "sha256": "f8d3370624d093f6575de7cc7e2740462147d78bee31f3d6c9fde818c2f8c55f"
+    },
+    {
+      "order": 9,
+      "kind": "text",
+      "title": "CAPITOLO III. - Spes nostra, salve.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__P9.HTM",
+      "local_path": "sources/intratext/raw_html/__p9.htm",
+      "bytes": 121057,
+      "sha256": "e2b4b7d2ea8c968fc265e6240110e85bc33edc7082bce65fb1f02d04758d70bd"
+    },
+    {
+      "order": 10,
+      "kind": "text",
+      "title": "CAPITOLO IV. - Ad te clamamus, exsules filii Hevae.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PA.HTM",
+      "local_path": "sources/intratext/raw_html/__pa.htm",
+      "bytes": 114164,
+      "sha256": "7d14530d751be7ecf589a9af2ed2bdc12edd1dd34feff6f7b9b992cbb9ebf794"
+    },
+    {
+      "order": 11,
+      "kind": "text",
+      "title": "CAPITOLO V. - Ad te suspiramus gementes et flentes in hac lacrimarum valle.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PB.HTM",
+      "local_path": "sources/intratext/raw_html/__pb.htm",
+      "bytes": 208686,
+      "sha256": "09464ad530db53487d46144b899e713582378ea0de0499ef32408521d7e4f753"
+    },
+    {
+      "order": 12,
+      "kind": "text",
+      "title": "CAPITOLO VI. - Eia ergo advocata nostra.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PC.HTM",
+      "local_path": "sources/intratext/raw_html/__pc.htm",
+      "bytes": 174093,
+      "sha256": "f160b0c5b2cffd340938cca15856ef1c7510e1fbb0985baf5558434762ff9b27"
+    },
+    {
+      "order": 13,
+      "kind": "text",
+      "title": "CAPITOLO VII. - Illos tuos misericordes oculos ad nos converte.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PD.HTM",
+      "local_path": "sources/intratext/raw_html/__pd.htm",
+      "bytes": 59005,
+      "sha256": "7bf217540d8002110f65db0b64eac3b01602239509bb36eb396d7ef579bea967"
+    },
+    {
+      "order": 14,
+      "kind": "text",
+      "title": "CAPITOLO VIII. - Et Iesum benedictum fructum ventris tui nobis post hoc exsilium ostende.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PE.HTM",
+      "local_path": "sources/intratext/raw_html/__pe.htm",
+      "bytes": 170273,
+      "sha256": "db225888ca7dcea01201711634ca9a14c9f7009081bc57db4f3fbc894eaa037f"
+    },
+    {
+      "order": 15,
+      "kind": "text",
+      "title": "CAPITOLO IX. - O clemens, o pia.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PF.HTM",
+      "local_path": "sources/intratext/raw_html/__pf.htm",
+      "bytes": 70935,
+      "sha256": "2485599f53f5fe8c331746e2f663a207ef5b4e7e8f68c0f33a6e94f1e60a4a70"
+    },
+    {
+      "order": 16,
+      "kind": "text",
+      "title": "CAPITOLO X. - O dulcis Virgo Maria.",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PG.HTM",
+      "local_path": "sources/intratext/raw_html/__pg.htm",
+      "bytes": 97889,
+      "sha256": "abe2f31e9a02ce28594e38e572843218a87fdea69ee3b720a75b75934aed4caa"
+    },
+    {
+      "order": 17,
+      "kind": "text",
+      "title": "ORAZIONI MOLTO DIVOTE DI ALCUNI SANTI ALLA DIVINA MADRE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PH.HTM",
+      "local_path": "sources/intratext/raw_html/__ph.htm",
+      "bytes": 57848,
+      "sha256": "6888b6867bd8d4764e4e8561f58fe53cf7c3ee7cb76314da43e9329d7419eb03"
+    },
+    {
+      "order": 18,
+      "kind": "text",
+      "title": "DISCORSI SULLE SETTE FESTE PRINCIPALI DI MARIA",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PI.HTM",
+      "local_path": "sources/intratext/raw_html/__pi.htm",
+      "bytes": 846898,
+      "sha256": "0121969d773599980fd5f9e544dc8e73f7cfd0193a7aa2fafd3590e8f76d6870"
+    },
+    {
+      "order": 19,
+      "kind": "text",
+      "title": "RIFLESSIONI SOPRA CIASCUNO DE' SETTE DOLORI DI MARIA IN PARTICOLARE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PJ.HTM",
+      "local_path": "sources/intratext/raw_html/__pj.htm",
+      "bytes": 244722,
+      "sha256": "2f1889555892e717e5239511b0994e2365dd55535707d9ae685262ee426729d4"
+    },
+    {
+      "order": 20,
+      "kind": "text",
+      "title": "DELLE VIRTÙ DI MARIA SANTISSIMA",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PK.HTM",
+      "local_path": "sources/intratext/raw_html/__pk.htm",
+      "bytes": 284391,
+      "sha256": "a29987e655efc8fe6cebd67278530866c2959e31f0bb37102895cb8eae18e9e6"
+    },
+    {
+      "order": 21,
+      "kind": "text",
+      "title": "IV. - VARI OSSEQUI DI DIVOZIONE VERSO LA DIVINA MADRE COLLE LORO PRATICHE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PL.HTM",
+      "local_path": "sources/intratext/raw_html/__pl.htm",
+      "bytes": 178803,
+      "sha256": "533c49806f3c45f9fdb5866c3dc5fd10e289827d46b043f70047269acd367cda"
+    },
+    {
+      "order": 22,
+      "kind": "text",
+      "title": "[CONCLUSIONE DELL'OPERA]",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PM.HTM",
+      "local_path": "sources/intratext/raw_html/__pm.htm",
+      "bytes": 12778,
+      "sha256": "3695ab6175f33afebeb84e245ba48f391881c0778976ad9c87a37228a980f6f6"
+    },
+    {
+      "order": 23,
+      "kind": "text",
+      "title": "V. - RACCOLTA DI VARI ESEMPI APPARTENENTI A MARIA SANTISSIMA",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PN.HTM",
+      "local_path": "sources/intratext/raw_html/__pn.htm",
+      "bytes": 282727,
+      "sha256": "65508eaa415c8d84eb1337a43772a7f3cdefb5b470d24812f23a8d4ee54f5e6a"
+    },
+    {
+      "order": 24,
+      "kind": "text",
+      "title": "VI. - ORAZIONI DIVERSE ALLA DIVINA MADRE",
+      "source_url": "https://www.intratext.com/ixt/ITASA0013/__PO.HTM",
+      "local_path": "sources/intratext/raw_html/__po.htm",
+      "bytes": 194034,
+      "sha256": "4eb9dc83f6b90260e272213eecd5434efcdb4a400483baf0c7a02639750c2a60"
+    }
+  ]
+}

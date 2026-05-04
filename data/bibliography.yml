@@ -1,0 +1,79 @@
+# Bibliographie-Gerust.
+# Statuswerte: open, partial, verified.
+
+- id: intratext-glorie-di-maria
+  title: "Glorie di Maria: testo"
+  author: "Alfonso Maria de Liguori"
+  editor: "IntraText"
+  year: 2006
+  language: it
+  type: digital_text
+  role: "Italianischer Leittext"
+  url: "https://www.intratext.com/ixt/ITASA0013/_index.htm"
+  license: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported, unless otherwise noted"
+  license_url: "https://www.intratext.com/info/copyENG.htm"
+  status: partial
+  notes: "Laut Research-Bericht textlich identisch mit der Standardausgabe der Opere ascetiche VI-VII. Die konkrete Textseite nennt EuloTech 2006 und verweist auf Credits; die allgemeine IntraText-Copyright-Seite nennt CC BY-NC-SA 3.0 als Standardlizenz, sofern nicht anders angegeben."
+
+- id: remondini-1760
+  title: "Le glorie di Maria"
+  author: "Alfonso Maria de Liguori"
+  publisher: "Remondini"
+  place: "Venezia"
+  year: 1760
+  language: it
+  type: facsimile
+  role: "Historischer Textzeuge"
+  url: null
+  status: open
+
+- id: opere-ascetiche-vi-vii
+  title: "Opere ascetiche, vol. VI-VII"
+  author: "Alfonso Maria de Liguori"
+  publisher: null
+  place: "Roma"
+  year: null
+  language: it
+  type: critical_edition
+  role: "Standardausgabe und kritische Textgrundlage"
+  url: null
+  status: open
+
+- id: krebs-litz-1922
+  title: "Die Herrlichkeiten Mariae"
+  author: "Alfonso Maria de Liguori"
+  translator: "Alois Krebs"
+  editor: "Jakob Litz"
+  publisher: "Koesel & Pustet"
+  place: "Regensburg"
+  year: 1922
+  language: de
+  type: translation
+  role: "Deutsche Studien- und Vergleichsausgabe"
+  url: null
+  status: open
+
+- id: sarto-2018
+  title: "Die Herrlichkeiten Mariens"
+  author: "Alfonso Maria de Liguori"
+  editor: "Klemens Kiser"
+  publisher: "Sarto"
+  place: "Bobingen"
+  year: 2018
+  language: de
+  type: reprint
+  role: "Aktuelle deutsche Gebrauchsausgabe"
+  url: null
+  status: open
+  notes: "Laut Research-Bericht unveranderter Nachdruck der Ausgabe von 1991."
+
+- id: liguori-publications-2000
+  title: "The Glories of Mary"
+  author: "Alfonso Maria de Liguori"
+  publisher: "Liguori Publications"
+  year: 2000
+  language: en
+  type: translation
+  role: "Moderne vollstandige englische Gebrauchsausgabe"
+  url: null
+  status: open
