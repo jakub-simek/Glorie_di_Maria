@@ -18,6 +18,7 @@ Der Ausgangspunkt ist [deep-research-report.md](deep-research-report.md). Die da
 ## Struktur
 
 - [docs/editorial-guidelines.md](docs/editorial-guidelines.md): editorische Grundsatze und Arbeitsregeln.
+- [docs/intratext-to-tei-workflow.md](docs/intratext-to-tei-workflow.md): ausfuehrliche Dokumentation des IntraText-Downloads und der TEI-Konversion als Vorlage fuer weitere Projekte.
 - [sources/source-plan.md](sources/source-plan.md): Quellenlage und Priorisierung.
 - [data/bibliography.yml](data/bibliography.yml): wachsendes Bibliographie-Gerust.
 - [edition/it/](edition/it/): italienischer Editionstext.

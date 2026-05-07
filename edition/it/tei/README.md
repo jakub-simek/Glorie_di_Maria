@@ -17,6 +17,8 @@ Ausgabe:
 
 - [glorie-di-maria.xml](glorie-di-maria.xml)
 
+Der wiederverwendbare Gesamtworkflow fuer Download, Manifest, HTML-Parsing, Fussnoten, Seitenumbrueche und TEI-Struktur ist in [../../../docs/intratext-to-tei-workflow.md](../../../docs/intratext-to-tei-workflow.md) dokumentiert.
+
 ## Aktuelles Mapping
 
 - Werkvorspann und editorische Einleitungen: `<front>`

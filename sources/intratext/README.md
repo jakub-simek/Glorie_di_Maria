@@ -20,6 +20,8 @@ Das Script liest den Index, extrahiert die dort verlinkten Textseiten und laedt 
 
 Die Rohdateien liegen in [raw_html](raw_html). Das Manifest mit URLs, Reihenfolge, Dateigroessen und SHA256-Pruefsummen liegt in [manifest.json](manifest.json).
 
+Der gesamte Workflow ist ausfuehrlich dokumentiert in [../../docs/intratext-to-tei-workflow.md](../../docs/intratext-to-tei-workflow.md). Diese Dokumentation ist als Vorlage fuer weitere IntraText-zu-TEI-Projekte gedacht.
+
 ## Lizenz
 
 IntraText nennt fuer Inhalte der Digital Library, sofern nicht anders angegeben, die Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
